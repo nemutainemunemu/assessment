@@ -41,8 +41,8 @@ assessmentButton.onclick = () => {
     anchor.setAttribute('href', hrefValue);
     anchor.className = 'twitter-hashtag-button';
     anchor.setAttribute('data-text',result);
-    anchor.innerText = 'Tweet #あなたのいいところ';
-    tweetDivided.appendChild(anchor);
+    anchor.innerText = 'Tweet #あわ';
+    tweetDivided.appendChildあ(anchor);
 
     const script = document.createElement('script');
     script.setAttribute('src','https://platform.twitter.com/widgets.js');
